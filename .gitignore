@@ -1,0 +1,32 @@
+# Hugo generated files
+/public/
+/resources/
+
+# Hugo temp files
+.hugo_build.lock
+
+# Configuration files that may vary between environments
+.DS_Store
+*.toml
+
+# Optional: Ignore themes directory if using a theme via submodule
+# If you're using a theme as a Git submodule, you generally don't want to include the themes directory.
+# Instead, you should add the theme as a submodule (which you've done) and not commit the theme files themselves.
+# /themes/*
+
+# IDE-specific files (optional)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Ignore backups and temporary files
+*.bak
+*.swp
+*.tmp
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

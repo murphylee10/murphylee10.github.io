@@ -1,0 +1,189 @@
+firstname: Murphy
+lastname: Lee
+subheader: Aspiring Full-Stack Developer
+resume: https://drive.google.com/file/d/1SjZollYp-MRUxEzgY0V6gD7vR0jeu5vH/
+
+social:
+    - link: https://www.linkedin.com/in/lauxinwei/
+      svg: linkedin.svg
+    - link: https://github.com/xinweilau
+      svg: github.svg
+
+about:
+    description: |
+        Hi there! I'm a highly motivated and driven Computer Science undergraduate at Nanyang Technological University.
+        I love to design and build user-centric software that is both functional and beautiful.
+        I believe that technology has the potential to make the world a better place, and I am passionate about creating practical and meaningful solutions to the problems we face in everyday life. As Steve Jobs said, "Technology is nothing. What's important is that you have faith in people, that they're basically good and smart — and if you give them tools, they'll do wonderful things with them."
+        Besides my passion in technology, I am also an avid reader of Wuxia (Martial Heroes) novels, and regularly jog to help manage stress and find enjoyment in this fast-paced and competitive city.
+
+    skills:
+        - name: React
+          svg: react.svg
+        - name: CSS
+          svg: css.svg
+        - name: HTML
+          svg: html.svg
+        - name: C
+          svg: c.svg
+        - name: Jest
+          svg: jest.svg
+        - name: Tailwind CSS
+          svg: tailwindcss.svg
+        - name: JavaScript
+          svg: javascript.svg
+        - name: TypeScript
+          svg: typescript.svg
+        - name: Express
+          svg: express.svg
+        - name: Hugo
+          svg: hugo.svg
+        - name: Firebase
+          svg: firebase.svg
+        - name: Go
+          svg: go.svg
+        - name: GraphQL
+          svg: graphql.svg
+        - name: MongoDB
+          svg: mongodb.svg
+        - name: NodeJS
+          svg: nodejs.svg
+        - name: Ruby
+          svg: ruby.svg
+        - name: Snowflake
+          svg: snowflake.svg
+        - name: Airflow
+          svg: airflow.svg
+        - name: Heroku
+          svg: heroku.svg
+        - name: Azure
+          svg: azure.svg
+        - name: MySQL
+          svg: mysql.svg
+        - name: Ruby on Rails
+          svg: ruby-on-rails.svg
+        - name: React Native
+          svg: react.svg
+
+experience:
+    - company: Screening Eagle Singapore Pte Ltd
+      title: Frontend Engineer, Intern
+      description: |
+          Optimised frontoffice web portal, resolve production bugs and introducing new feature using React, TypeScript, and Stylus.
+          Additionally, developed experimental features for a React Native app which focuses on cross-platform performance with stakeholder feedbacks.
+      startDate: 2023-10-17
+      endDate: 2023-12-29
+    - company: Dementia Research Centre Singapore
+      title: Freelance Software Developer
+      description: |
+          Created mobile-first games using React, Tailwind CSS, and NextJS. 
+          Implemented scripts with GitHub Actions to automate deployment to AWS CloudFront.
+      startDate: 2023-09-01
+      endDate: 2023-10-01
+    - company: Government Technology Agency
+      title: Software Engineer, Intern
+      description: |
+          Designed and developed a microservice for the TechPass team, boosting domain management across agencies and vendors.
+          Proficient in deploying resources using TerraForm and TerraGrunt, ensuring scalability and cost- effectiveness.
+          Automated manual tasks through adhoc cron and lambda jobs, boosting productivity and reducing errors.
+      startDate: 2023-01-09
+      endDate: 2023-09-01
+    - company: Circles Life, Labs
+      title: Software Engineer Intern
+      description: |
+          Executed Full-Stack Development to create a dynamic data analytics portal, utilising ReactJS, NodeJS, ExpressJS, and Snowflake.
+          Incorporated web usage and audit tracking functionality using Google Analytics 4, and devised a script to efficiently transfer extracted data to Snowflake using Airflow.
+          Spearheaded the architecture of a cost-effective CRM campaign builder, resulting in improved customer outreach and significant operational cost reduction.
+      startDate: 2022-05-09
+      endDate: 2022-09-09
+    - company: KatoKato Pte Ltd
+      title: Software Engineer Intern
+      description: |
+          Collaborated with a team of developers to design and develop a full-stack administrative platform that empowered vendors to manage businesses more efficiently.
+          Executed design mock-ups into a ReactJS web application, enabling vendors to interact with the Platform-as-a-Service (PaaS).
+          Developed backend APIs using NodeJS, TypeScript, ExpressJS, and GraphQL, collaborating with a team of developers.
+      startDate: 2021-12-01
+      endDate: 2021-12-31
+    - company: 8Bit Global Pte Ltd
+      title: Backend Engineer Intern
+      description: |
+          Implemented localisation for communication emails by integrating techniques into existing codebase.
+          Composed resilient code to support future localisation for multiple languages which enhances system scalability and adaptability.
+          Designed and implemented an integrated mail service using NodeJS and ExpressJS, leveraging Mailgun, resulting in significant improvements to customer support functionalities.
+      startDate: 2020-05-01
+      endDate: 2020-07-31
+    - company: Ministry of Education, Experimental Systems and Technology Lab
+      title: Software Engineer Intern
+      description: |
+          Led end-to-end web application development utilising the Ruby on Rails framework, encompassing development, testing, and deployment stages.
+          Utilised User Experience (UX) techniques such as stakeholder interviews to analyse and gain insights into user requirements, facilitating improved understanding and alignment with user expectations.
+      startDate: 2017-03-01
+      endDate: 2017-08-31
+
+projects:
+    - title: "Spark: Fuel Engagement, Ignite Relationships!"
+      projectDate: 2023-06-15
+      description: |
+          Lead developer for a cross-platform mobile application using React Native, TypeScript, and Tailwind CSS to improve employee relationships by increasing involvement in company activities.
+          Project Spark was selected for the finals of the DSTA BrainHack CODE_EXP 2023 hackathon.
+      skills:
+          - name: Tailwind CSS
+            svg: tailwindcss.svg
+          - name: TypeScript
+            svg: typescript.svg
+          - name: React Native
+            svg: react.svg
+    - title: Personal Website Hugo Theme
+      projectDate: 2022-08-11
+      description: |
+          Utilised HTML, JavaScript and Tailwind CSS to create a personal website (this website that you're on right now).
+          Deployed on Azure Web App.
+          Website is available as a custom Hugo theme.
+      skills:
+          - name: HTML
+            svg: html.svg
+          - name: JavaScript
+            svg: javascript.svg
+          - name: Tailwind CSS
+            svg: tailwindcss.svg
+          - name: Azure
+            svg: azure.svg
+    - title: Bus Arrival Telegram Bot
+      projectDate: 2022-04-01
+      description: |
+          Utilised Go programming language with Land Transport Authority (LTA) DataMall API to develop a bus arrival tracker with notification reminder capabilities.
+          Deployed on Heroku.
+      skills:
+          - name: React
+            svg: react.svg
+          - name: Go
+            svg: go.svg
+          - name: Heroku
+            svg: heroku.svg
+    - title: NTU Timetable to iCalendar Converter
+      projectDate: 2021-07-01
+      description: |
+          Utilised TypeScript programming language with NodeJS and ReactJS to develop a website which converts NTU's text-based timetable to an iCalendar event format.
+          Deployed on Heroku.
+      skills:
+          - name: React
+            svg: react.svg
+          - name: NodeJS
+            svg: nodejs.svg
+          - name: TypeScript
+            svg: typescript.svg
+          - name: HTML
+            svg: html.svg
+          - name: CSS
+            svg: css.svg
+          - name: Heroku
+            svg: heroku.svg
+
+actions:
+    - title: GitHub Profile
+      subtitle: More projects
+      button: "@xinweilau"
+      link: https://github.com/xinweilau
+    - title: Get In Touch
+      subtitle: "Contact me"
+      button: "Email"
+      link: mailto:xinweii1996@live.com

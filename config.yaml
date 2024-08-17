@@ -1,0 +1,8 @@
+baseURL: "https://example.com"
+languageCode: en-us
+title: "Your Name"
+theme: simple-dev-portfolio
+
+params:
+  description: "Your Description"
+  preview_url: "Website Snapshot URL"

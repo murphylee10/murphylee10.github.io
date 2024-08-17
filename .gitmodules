@@ -1,0 +1,3 @@
+[submodule "themes/simple-dev-portfolio"]
+	path = themes/simple-dev-portfolio
+	url = https://github.com/xinweilau/simple-dev-portfolio.git

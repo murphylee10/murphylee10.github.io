@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://murphylee10.github.io/portfolio/"
 languageCode: en-us
-title: "Your Name"
+title: "Murphy Lee"
 theme: simple-dev-portfolio
 
 params:

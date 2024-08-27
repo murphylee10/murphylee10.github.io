@@ -1,9 +1,10 @@
-# portfolio
+# Murphy Lee's Portfolio
 
 Todo:
+
 - [x] Fix first name and last name thing
-- [ ] Change favicon
+- [x] Change favicon
 - [ ] Fill in with my content
-- [ ] Deploy
+- [x] Deploy
 - [ ] Blog part (with refactor)
 - [ ] Credits

@@ -60,6 +60,12 @@ about:
     #   svg: react.svg
 
 experience:
+  - company: theScore (Score Media and Gaming Inc)
+    title: Software Developer, Intern
+    description: |
+      Soon to join the Sports Data team.
+    startDate: 2024-09-03
+    endDate: 2024-12-23
   - company: Toyota Canada Inc
     title: AWS Developer, Intern
     description: |
@@ -68,9 +74,16 @@ experience:
       Additionally, I utilized over 15 AWS services to create interactive Cost Intelligence Dashboards, optimizing expenses and reducing Toyota’s AWS billing by over 5%.
     startDate: 2024-01-02
     endDate: 2024-05-03
+  - company: Morado Development
+    title: Full Stack Developer
+    description: |
+      As a full stack developer at Morado Development, I developed multiple MERN stack applications for various clients.
+      I frequently learned new technologies on the fly according to specific client requirements, such as utilizing the Shopfiy Liquid framework to provide CMS-like maintanability for a catering website.
+    startDate: 2023-05-02
+    endDate: 2023-12-03
 
 projects:
-  - title: "Temp"
+  - title: "Temp (to fill)"
     projectDate: 2023-06-15
     description: |
       Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum

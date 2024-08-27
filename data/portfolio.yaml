@@ -4,82 +4,90 @@ subheader: Full-Stack Developer
 resume: https://murphylee10.github.io/Murphy_Lee_Resume.pdf
 
 social:
-    - link: https://www.linkedin.com/in/murphylee10/
-      svg: linkedin.svg
-    - link: https://github.com/murphylee10
-      svg: github.svg
+  - link: https://www.linkedin.com/in/murphylee10/
+    svg: linkedin.svg
+  - link: https://github.com/murphylee10
+    svg: github.svg
 
 about:
-    description: |
-        Hi there! I'm a highly motivated and driven Computer Science undergraduate at Nanyang Technological University.
-        I love to design and build user-centric software that is both functional and beautiful.
-        I believe that technology has the potential to make the world a better place, and I am passionate about creating practical and meaningful solutions to the problems we face in everyday life. As Steve Jobs said, "Technology is nothing. What's important is that you have faith in people, that they're basically good and smart — and if you give them tools, they'll do wonderful things with them."
-        Besides my passion in technology, I am also an avid reader of Wuxia (Martial Heroes) novels, and regularly jog to help manage stress and find enjoyment in this fast-paced and competitive city.
+  description: |
+    Hi there! I'm Murphy, a Software Engineer and Computer Science Specialist at UofT. 
+    I'm passionate about building software that is functional, scalable, and user-friendly. 
+    I have experience working with a variety of technologies such as Angular, Node, and Postgres, but I'm always eager to explore new tools and frameworks. 
+    I also love to dance, and in the past I've competed at national competitions and worked in multiple Netflix films.
+    Check out my resume or get in touch if you'd like to learn more about me!
 
-    skills:
-        - name: React
-          svg: react.svg
-        - name: CSS
-          svg: css.svg
-        - name: HTML
-          svg: html.svg
-        - name: C
-          svg: c.svg
-        - name: Tailwind CSS
-          svg: tailwindcss.svg
-        - name: JavaScript
-          svg: javascript.svg
-        - name: TypeScript
-          svg: typescript.svg
-        - name: Express
-          svg: express.svg
-        - name: Hugo
-          svg: hugo.svg
-        - name: Firebase
-          svg: firebase.svg
-        - name: Go
-          svg: go.svg
-        - name: GraphQL
-          svg: graphql.svg
-        - name: MongoDB
-          svg: mongodb.svg
-        - name: NodeJS
-          svg: nodejs.svg
-        - name: Heroku
-          svg: heroku.svg
-        - name: React Native
-          svg: react.svg
+  skills:
+    - name: Angular
+      svg: angular.svg
+    - name: React
+      svg: react.svg
+    # - name: CSS
+    #   svg: css.svg
+    # - name: HTML
+    #   svg: html.svg
+    - name: C
+      svg: c.svg
+    - name: Python
+      svg: python.svg
+    # - name: Tailwind CSS
+    #   svg: tailwindcss.svg
+    # - name: JavaScript
+    #   svg: javascript.svg
+    - name: TypeScript
+      svg: typescript.svg
+    - name: Express
+      svg: express.svg
+    - name: Hugo
+      svg: hugo.svg
+    - name: Firebase
+      svg: firebase.svg
+    - name: Go
+      svg: go.svg
+    - name: GraphQL
+      svg: graphql.svg
+    - name: MongoDB
+      svg: mongodb.svg
+    - name: NodeJS
+      svg: nodejs.svg
+    - name: Docker
+      svg: docker.svg
+    - name: AWS
+      svg: aws.svg
+    # - name: Heroku
+    #   svg: heroku.svg
+    # - name: React Native
+    #   svg: react.svg
 
 experience:
-    - company: Toyota Canada Inc
-      title: AWS Developer, Intern
-      description: |
-          As an AWS Developer Intern at Toyota Canada, I implemented VPCs and a serverless architecture using API Gateway, Lambda, and CloudFormation, which led to a 20% reduction in infrastructure costs and improved application performance. 
-          I also developed automated testing frameworks using Elastic Beanstalk, CodePipeline, and CodeDeploy, resulting in a 60% reduction in testing time and a 30% increase in test coverage. 
-          Additionally, I utilized over 15 AWS services to create interactive Cost Intelligence Dashboards, optimizing expenses and reducing Toyota’s AWS billing by over 5%.
-      startDate: 2024-01-02
-      endDate: 2024-05-03
-
+  - company: Toyota Canada Inc
+    title: AWS Developer, Intern
+    description: |
+      As an AWS Developer Intern at Toyota Canada, I implemented VPCs and a serverless architecture using API Gateway, Lambda, and CloudFormation, which led to a 20% reduction in infrastructure costs and improved application performance. 
+      I also developed automated testing frameworks using Elastic Beanstalk, CodePipeline, and CodeDeploy, resulting in a 60% reduction in testing time and a 30% increase in test coverage. 
+      Additionally, I utilized over 15 AWS services to create interactive Cost Intelligence Dashboards, optimizing expenses and reducing Toyota’s AWS billing by over 5%.
+    startDate: 2024-01-02
+    endDate: 2024-05-03
 
 projects:
-    - title: "Temp"
-      projectDate: 2023-06-15
-      description: |
-          Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-      skills:
-          - name: Tailwind CSS
-            svg: tailwindcss.svg
-          - name: TypeScript
-            svg: typescript.svg
-          - name: React Native
-            svg: react.svg
+  - title: "Temp"
+    projectDate: 2023-06-15
+    description: |
+      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+    skills:
+      - name: Tailwind CSS
+        svg: tailwindcss.svg
+      - name: TypeScript
+        svg: typescript.svg
+      - name: React Native
+        svg: react.svg
 
 actions:
-    - title: GitHub Profile
-      subtitle: More projects
-      button: "@murphylee10"
-      link: https://github.com/murphylee10
-    - title: Get In Touch
-      subtitle: "Contact me"
-      button: "Email"
-      link: mailto:murphylee2004@gmail.com
+  - title: GitHub Profile
+    subtitle: More projects
+    button: "@murphylee10"
+    link: https://github.com/murphylee10
+  - title: Get In Touch
+    subtitle: "Contact me"
+    button: "Email"
+    link: mailto:murphylee2004@gmail.com

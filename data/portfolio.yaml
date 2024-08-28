@@ -81,19 +81,92 @@ experience:
       I frequently learned new technologies on the fly according to specific client requirements, such as utilizing the Shopfiy Liquid framework to provide CMS-like maintanability for a catering website.
     startDate: 2023-05-02
     endDate: 2023-12-03
+  - company: Netflix
+    title: Principal Dancer
+    description: |
+      Collaborated with dancers, actors, and award-winning choreographers such as Jamal Sims, Nicky Andersen, and Amanda May.
+      Danced in 5+ scenes of the Netflix Musical "13 the Musical".
+    startDate: 2021-03-19
+    endDate: 2021-08-05
 
 projects:
-  - title: "Temp (to fill)"
-    projectDate: 2023-06-15
+  - title: "Eccountant"
+    projectDate: 2024-08-15
     description: |
-      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+      Eccountant is a single-page web application designed to help users track their spending by integrating with financial institutions using Plaid's API. 
+      The app categorizes transactions, provides real-time financial insights, and includes a subscription detection feature to manage recurring expenses. 
+      Built with Angular and Express, it leverages PostgreSQL for data storage and Docker for deployment, ensuring a robust and scalable solution for personal financial management.
+      Developed in collaboration with Chad Rosseau and Vincent Zhang.
     skills:
-      - name: Tailwind CSS
-        svg: tailwindcss.svg
+      - name: Angular
+        svg: angular.svg
+      - name: Express
+        svg: express.svg
       - name: TypeScript
         svg: typescript.svg
-      - name: React Native
+      - name: PostgreSQL
+        svg: postgres.svg
+      - name: Docker
+        svg: docker.svg
+      - name: Tailwind CSS
+        svg: tailwindcss.svg
+  - title: "StockMS"
+    projectDate: 2024-08-15
+    description: |
+      StockMS is a comprehensive stock management and analysis platform that enables users to manage portfolios, track stock performance, and predict future trends using historical data from the S&P 500. 
+      The application also supports social features, allowing users to connect with friends, share stock lists, and exchange reviews. 
+      Built with Angular and Express, and powered by PostgreSQL, StockMS leverages Docker for deployment, offering a robust tool for both individual investors and social networking around stock management.
+      Developed in collaboration with Shreyas Rao.
+    skills:
+      - name: Angular
+        svg: angular.svg
+      - name: Express
+        svg: express.svg
+      - name: TypeScript
+        svg: typescript.svg
+      - name: PostgreSQL
+        svg: postgres.svg
+      - name: Docker
+        svg: docker.svg
+      - name: Tailwind CSS
+        svg: tailwindcss.svg
+  - title: "MailMigo"
+    projectDate: 2024-08-01
+    description: |
+      MailMigo is a SaaS product designed to empower users by integrating AI-driven email processing directly into their existing workflows. 
+      By sending or forwarding emails to specific MailMigo addresses, users can trigger AI-powered actions such as content generation and automated responses. 
+      The platform also includes a web application for managing documents, viewing AI-generated content, and administering user accounts within an organization. 
+      The system is built using Angular, Firebase, and TypeScript, leveraging LangChain and Pinecone for AI processing.
+      This project was managed by Chad Rosseau and developed in collaboration with Alan Zhang, Robert Chung, and Aarya Prakesh.
+    skills:
+      - name: Angular
+        svg: angular.svg
+      - name: Firebase
+        svg: firebase.svg
+      - name: TypeScript
+        svg: typescript.svg
+      - name: Tailwind CSS
+        svg: tailwindcss.svg
+      - name: Pinecone
+        svg: pinecone.svg
+      - name: AWS
+        svg: aws.svg
+  - title: "PaperVision"
+    projectDate: 2023-10-15
+    description: |
+      PaperVision is a full-stack web application designed to transcribe academic articles into interactive mind maps, enhancing reading comprehension and engagement. 
+      The project, which ranked in the top 20 out of over 400 participants at Hack the Valley 8, features a visually dynamic frontend built with Next.js, React, and WebGL. 
+      The backend is powered by a REST API implemented in Flask, with MongoDB used for storing and managing article data.
+      Developed in collaboration with Alankrit Verma, Aarya Prakesh, and Adibvafa Fallahpour.
+    skills:
+      - name: Next.js
+        svg: nextjs.svg
+      - name: React
         svg: react.svg
+      - name: Flask
+        svg: flask.svg
+      - name: MongoDB
+        svg: mongodb.svg
 
 actions:
   - title: GitHub Profile

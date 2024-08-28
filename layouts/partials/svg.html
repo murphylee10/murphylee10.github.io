@@ -1,0 +1,2 @@
+{{- $svg := print "assets/icons/" . | readFile | safeHTML -}} {{- $svg := $svg |
+replaceRE "<svg" "<svg width=\"24\" height=\"24\"" -}} {{- $svg | safeHTML -}}

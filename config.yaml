@@ -1,8 +1,8 @@
-baseURL: "https://murphylee10.github.io/"
+baseURL: "https://murphylee10.dev/"
 languageCode: en-us
 title: "Murphy Lee"
 theme: simple-dev-portfolio
 
 params:
   description: "Your Description"
-  preview_url: "https://murphylee10.github.io/"
+  preview_url: "https://murphylee10.dev/"

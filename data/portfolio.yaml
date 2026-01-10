@@ -60,10 +60,22 @@ about:
     #   svg: react.svg
 
 experience:
+  - company: Cloudflare
+    title: Software Engineer, Intern
+    description: |
+      As an incoming Software Engineer Intern at Cloudflare, I will be joining the D1 team in Austin, Texas, working on scalable database infrastructure and developer-facing platform features.
+    startDate: 2026-01-06
+    endDate: 2026-04-25
+  - company: Amazon Web Services (AWS)
+    title: Software Engineer, Intern
+    description: |
+      As a Software Engineer Intern at AWS, I architected a distributed system for testing AWS Sign-In across 250+ AWS consoles, automated the end-to-end test suite in Java and TypeScript, and reduced Ops Portal pipeline latency across 15 AWS regions by 13% through caching and concurrent deployments.
+    startDate: 2025-05-05
+    endDate: 2025-08-22
   - company: theScore (Score Media and Gaming Inc)
     title: Software Developer, Intern
     description: |
-      Soon to join the Sports Data team.
+      As a Software Developer Intern at theScore, I contributed to the Sports Data team by building backend features for NFL streaming and other real-time sports data, serving 5M daily active users.
     startDate: 2024-09-03
     endDate: 2024-12-23
   - company: Toyota Canada Inc
